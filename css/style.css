@@ -1,0 +1,41 @@
+/* Para selecionar a página inteira,
+selecionamos o seletor * */
+body
+{
+    background-color: #353230;
+    background-image: url(https://mauropennafort.com.br/wp-content/uploads/2023/06/matrix-5361690_1920-1-1-800x440.png);
+}
+
+/*  Adicionando cor no seletor p*/
+p{
+    color:#f1f1f1;
+    font-size: 45px;
+}
+/* Para identificar o class, digita-se ponto
+e o nome da classe. Exemplo: .centro*/
+.centro {
+    text-align: center;
+    color:rgb(55, 182, 199);
+    font-size: 40px;
+}
+.lab{
+    color:aqua;
+    font-size: 40px;
+    font-style: bold;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    
+}
+}
+
+.programadores{
+    color:rgb(241, 11, 11);
+    text-decoration: underline;
+    text-align: center;
+    font-family: "Baskervville SC", serif;
+   font-size: 40px;
+   
+
+
+}
+
